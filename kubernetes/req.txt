@@ -1,0 +1,4 @@
+https://kubernetes.io/docs/tasks/tools/
+https://docs.docker.com/get-docker/
+https://minikube.sigs.k8s.io/docs/start/
+https://hub.docker.com/r/bdrecipes/spark-on-docker
